@@ -1,8 +1,0 @@
-void visit(Student *e)
-{
-	cout<<*e<<" ";
-}
-bool equal(Student e1,int e2)
-{
-	return e1.d==e2;
-}
